@@ -1,0 +1,45 @@
+body{
+	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKcs-q9MgbSj1BiP1LnwRqdkLqhp63MbD1w&s");
+	text-align: center;
+}
+
+.whitebg{
+	background-color:white;
+}
+
+.purplebg{
+	background-color:#ce85ff;
+}
+
+.bigtext{
+	font-size:30px;
+}
+
+.lefttext{
+	text-align:left;
+}
+
+.centertext{
+	text-align:center;
+}
+
+.gun_list{
+	text-align:center;
+	background-color:white;
+}
+
+#id{
+	font-family:arial;
+}
+
+.solidborder{
+	border-style:solid
+}
+
+.blueborder{
+	border-color:rgb(148, 214, 214)
+}
+
+.thickborder{
+	border-width:10px;
+}
